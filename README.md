@@ -1,4 +1,4 @@
-# HDCvsCNN_CaseStudy
+# HDCvsCNN_StudyCase
 In  this  paper  we  studied  both  HD  and  CNN  for  popular data set and compare the 2-approaches in terms of accuracy, computing  complexity  and  overall  performance.  We  optimized  both  HDC  and  CNN  approaches  independently  and then analyzed the results to guide for the selection based on target need. 
  MNIST dataset was used in this work for HDC-based classification. The code is inspired and modefied from the paper " Binary-Hyperdimensional-Computing-Trade-offs-in-Choice-of-Density-and-Mapping" to match the targeted application. 
  
